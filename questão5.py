@@ -7,4 +7,4 @@ if B > 0.0 and b > 0.0 and h > 0.0:
 	area = multiplicação / 2
 	print(str(area))
 else:
-	print("Nao e possível calcular a area")
+	print("Nao é possível calcular a área")
